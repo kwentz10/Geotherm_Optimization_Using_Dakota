@@ -1,0 +1,4 @@
+{total_surface_temp_change}
+
+# Note: the line “{total_surface_temp_change}” will be replaced by an actual number
+
